@@ -1,20 +1,24 @@
 ####Some ColdMVC Custom Helpers I find useful from time to time.
+==================================================================================
 
 #####Usage:
+----------------------------------------------------------------------------------
 
 Download and drop any single helper component into your _app/helpers/_ directory.
 
-#####Path.cfc
+#####Helpers:
+==================================================================================
 
-#######Methods
+#####Path.cfc Methods
+----------------------------------------------------------------------------------
 
-`$.path.append(path, item, delimiter)`
+######append(path, item, delimiter)
 
 Arguments:
 
-> path = a directory or web-path
-> item = something you want to append on to a path
-> delimiter = defaults to /
+* path = a directory or web-path
+* item = something you want to append to a path
+* delimiter = defaults to /
 
 Example:
 
