@@ -2,7 +2,7 @@
 
 #####Usage:
 
-Download a drop any single helper into your _app/helpers/_ directory.
+Download and drop any single helper component into your _app/helpers/_ directory.
 
 
 #####Copyright 2012 Ryan Ricard
