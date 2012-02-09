@@ -4,6 +4,23 @@
 
 Download and drop any single helper component into your _app/helpers/_ directory.
 
+#####Path.cfc
+
+#######Methods
+
+`$.path.append(path, item, delimiter)`
+
+Arguments:
+
+> path = a directory or web-path
+> item = something you want to append on to a path
+> delimiter = defaults to /
+
+Example:
+
+<code>
+	$.path.append("//awesome/network/directory/", "file.txt", "/");
+</code>
 
 #####Copyright 2012 Ryan Ricard
 
