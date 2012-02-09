@@ -1,4 +1,4 @@
-####Some ColdMVC Custom Helpers I find useful from time to time.
+###Some ColdMVC Custom Helpers I find useful from time to time.
 ==================================================================================
 
 #####Usage:
@@ -6,13 +6,13 @@
 
 Download and drop any single helper component into your _app/helpers/_ directory.
 
-#####Helpers:
+###Components
 ==================================================================================
 
-#####Path.cfc Methods
+####Path.cfc Methods
 ----------------------------------------------------------------------------------
 
-######append(path, item, delimiter)
+#####append(path, item, delimiter)
 
 Arguments:
 
