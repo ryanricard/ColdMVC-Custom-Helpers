@@ -12,7 +12,9 @@ Download and drop any single helper component into your _app/helpers/_ directory
 ####Path.cfc Methods
 ----------------------------------------------------------------------------------
 
-#####append(path, item, delimiter)
+######append(path, item, delimiter)
+
+Purpose: Handles the presence or absence of pesky trailing slashes when appending to paths.
 
 Arguments:
 
